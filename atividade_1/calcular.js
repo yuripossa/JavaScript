@@ -1,6 +1,7 @@
 /*Código JAVASCRIPT*/
 function Calcular(){
     //Declaração das variáveis que recebem os valores informados pelo usuário
+    //Este comentário é um teste usando o GitHub
     nome = window.prompt('Digite o seu nome: ');
     nota1 = window.prompt('Didite a nota 1:');
     nota2 = window.prompt('Digite a nota 2: ');
